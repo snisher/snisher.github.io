@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  linkedin.com/in/fisher-moritzburke-536b01162
+  linkedin.com/in/fisher-moritzburke-536b01162 
 
   github.com/snisher
 
